@@ -1,6 +1,8 @@
 # Restaurant Website - 15-Day HTML & CSS Training 🍽️💻
 
-Welcome to the Restaurant Website project! This repository contains a 15-day training program that will help you learn and practice the fundamentals of HTML and CSS for web development. 🚀
+Welcome to the Restaurant Website project! 🍽️
+
+This repository hosts a comprehensive 15-day training program led by Shreya Malogi. Here, you'll find a wealth of resources derived from the training workshop. These materials are designed to assist you in mastering the essentials of HTML and CSS for web development.🚀
 
 ## Project Overview
 
